@@ -1,0 +1,49 @@
+
+.container{
+    width: 750px;
+    height: 400px;
+    outline: solid 1px black;
+    display: flex;
+    background-color: rgb(194, 190, 187);
+    margin-top: 150px;
+    margin-right: 400px ;
+    margin-left: 400px;
+    margin-bottom: 150px;
+}
+
+            .head{
+                border-radius: 15px;
+                margin-top: 160px;
+                margin-bottom: 200px;
+                margin-left: 150px;
+                margin-right: 150px;
+                
+            }
+            .tail{
+
+                border-radius: 15px;
+                margin-top: 160px;
+                margin-bottom: 200px;
+                margin-right: 150px;
+                margin-left:150px;
+            }
+
+            
+            #head{
+                background-color: rgb(222, 222, 62); 
+                width: 70px; 
+                height: 70px; 
+                cursor: pointer;
+                border-radius: 10px;
+                outline: solid 3px black;
+            }
+
+            #tail{
+                background-color: rgb(62, 211, 132); 
+                width: 70px; 
+                height: 70px; 
+                cursor: pointer;
+                border-radius: 10px;
+                outline: solid 3px black;
+            }
+
