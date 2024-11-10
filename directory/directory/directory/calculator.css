@@ -1,0 +1,6 @@
+.container{
+    width: 750px;
+    height: 450px;
+    outline:solid 1px black;
+    background-color: rgb(194, 190, 187);
+}
